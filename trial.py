@@ -1,1 +1,5 @@
-print("Hello from python world")
+print("Hello from python world!")
+
+
+
+user =input()
